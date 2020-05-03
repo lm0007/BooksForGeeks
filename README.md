@@ -71,8 +71,8 @@ People Donated:
 1) Karthik Srivijay (GitHub: @KartSriv) Books: 42
 2) Ashutosh Pandey; Books: 2
 3) Aakansha Singh (Bestie); Books: 4
-4) Fellow Geek (Name withheld as requseted by contributor) Book(s): 1
-[![FellowGeek](blob:https://imgur.com/eb3823b5-26ce-4f13-9ddd-132e9ea63649)]
+4) Fellow Geek (Name withheld as requseted by contributor) Book(s): 1 <br>
+[![FellowGeek](https://i.imgur.com/OXVmX6r.png)]
 
 5) Want your name here? Please donate books at hello@karthiksrivijay.tech
 
