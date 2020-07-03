@@ -70,7 +70,7 @@ Not everyone is a Geek. Not everyone wants to be a Geek. But there are few who w
 People Donated:
 1) Karthik Srivijay (GitHub: @KartSriv) Books: 42
 2) Ashutosh Pandey; Books: 2
-3) Aakansha Singh (Bestie); Books: 4
+3) Aakansha Singh; Books: 4
 4) Fellow Geek (Name withheld as requseted by contributor) Book(s): 1 <br>
 ![FellowGeek](https://i.imgur.com/OXVmX6r.png)
 
