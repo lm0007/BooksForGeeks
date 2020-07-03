@@ -72,7 +72,7 @@ People Donated:
 2) Ashutosh Pandey; Books: 2
 3) Aakansha Singh (Bestie); Books: 4
 4) Fellow Geek (Name withheld as requseted by contributor) Book(s): 1 <br>
-[![FellowGeek](https://i.imgur.com/OXVmX6r.png)]
+![FellowGeek](https://i.imgur.com/OXVmX6r.png)
 
 5) Want your name here? Please donate books at hello@karthiksrivijay.tech
 
